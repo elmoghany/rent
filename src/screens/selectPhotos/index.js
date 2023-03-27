@@ -103,7 +103,7 @@ const SelectPhotos = () => {
             initialLoad: 100,
             assetsType: [MediaType.photo, MediaType.video],
             minSelection: 1,
-            maxSelection: 3,
+            maxSelection: 5,
             existingSelectionIds: ["<selected Id 1>", "<selected Id 2>", "<selected Id N>"],
             portraitCols: 4,
             landscapeCols: 4,
